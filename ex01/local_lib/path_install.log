@@ -1,0 +1,5 @@
+Script started on Fri Oct  5 17:36:39 2018
+command: -c curl -L https://raw.githubusercontent.com/jaraco/path.py/master/path.py > ./local_lib/path.py
+script: -c: No such file or directory
+
+Script done on Fri Oct  5 17:36:39 2018

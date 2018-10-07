@@ -1,0 +1,13 @@
+Script started on Fri Oct  5 17:35:16 2018
+[?1034hbash-3.2$ ls
+local_lib	my_program.py	my_script.sh	typescript
+bash-3.2$ curl -L https://raw.githubusercontent.com/jaraco/path.py/master/path.py >  ./local_lib/path.py
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 56793  100 56793    0     0   263k      0 --:--:-- --:--:-- --:--:--  282k
+bash-3.2$ ls
+local_lib	my_program.py	my_script.sh	typescript
+bash-3.2$ exit
+exit
+
+Script done on Fri Oct  5 17:35:39 2018
