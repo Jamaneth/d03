@@ -1,4 +1,4 @@
-requests==2.14.2
+requests==2.20.0
 json==2.0.9
 dewiki==0.1.0
 sys==3.5.2
